@@ -1,4 +1,3 @@
-// Write your JS code here
 import {Route, Redirect} from 'react-router-dom'
 import Cookies from 'js-cookie'
 

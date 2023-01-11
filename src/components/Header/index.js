@@ -1,7 +1,5 @@
 import {Link, withRouter} from 'react-router-dom'
-
 import Cookie from 'js-cookie'
-
 import './index.css'
 
 const Header = props => {
